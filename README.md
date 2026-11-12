@@ -3,15 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:fbbf24&height=260&section=header&text=Dafa%20Dwi%20Andika&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Developer%20%7C%20Creative%20Writer&descSize=20&descAlignY=60" width="100%" alt="header" />
 
-<a href="https://github.com/dafadwiandika2-beep">
+<a href="https://github.com/dfandkaa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&width=820&lines=%E2%9C%A8+Halo!+Saya+Dafa+Dwi+Andika+%F0%9F%91%8B;Mahasiswa+Ilmu+Komputer+%40+Universitas+Sumatera+Utara+%F0%9F%8E%93;Full-Stack+%26+Mobile+App+Developer+%F0%9F%92%BB;Pencipta+Cuanverse%3A+Financial+RPG+App+%F0%9F%8E%AE;Web+Novel+Author+%26+Worldbuilder+%E2%9C%8D%EF%B8%8F;Mantan+Juara+Umum+%26+Peraih+Medali+Emas+Olimpiade+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/dafadwiandika2-beep?label=Followers&style=for-the-badge&color=fbbf24&logo=github&logoColor=black)
+![Followers](https://img.shields.io/github/followers/dfandkaa?label=Followers&style=for-the-badge&color=fbbf24&logo=github&logoColor=black)
 ![Repos](https://img.shields.io/badge/Repositories-19-38bdf8?style=for-the-badge&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=dafadwiandika2-beep&color=fbbf24&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=dfandkaa&color=fbbf24&style=for-the-badge&label=Profile+Views)
 ![Location](https://img.shields.io/badge/Medan-Indonesia-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -90,28 +90,29 @@ Bagi saya, **matematika adalah fondasi, kode adalah alatnya, dan cerita adalah j
 
 <div align="center">
 
-<a href="https://github.com/dafadwiandika2-beep/portofolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dafadwiandika2-beep&repo=portofolio&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
+<a href="https://github.com/dfandkaa/portofolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfandkaa&repo=portofolio&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
 </a>
-<a href="https://github.com/dafadwiandika2-beep/cuanverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dafadwiandika2-beep&repo=cuanverse&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
+<a href="https://github.com/dfandkaa/cuanverse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfandkaa&repo=cuanverse&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
 </a>
 
-<a href="https://github.com/dafadwiandika2-beep/birthdaymama">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dafadwiandika2-beep&repo=birthdaymama&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
+<a href="https://github.com/dfandkaa/birthdaymama">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfandkaa&repo=birthdaymama&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
 </a>
-<a href="https://github.com/dafadwiandika2-beep/mkwk-pendidikanberkualitaskel41">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dafadwiandika2-beep&repo=mkwk-pendidikanberkualitaskel41&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
+<a href="https://github.com/dfandkaa/mkwk-pendidikanberkualitaskel41">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfandkaa&repo=mkwk-pendidikanberkualitaskel41&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24" />
 </a>
 
 </div>
 
 | Proyek | Deskripsi | Teknologi |
 |:--|:--|:--|
-| 🌐 **[portofolio](https://github.com/dafadwiandika2-beep/portofolio)** | Web portofolio pribadi dengan tampilan mewah, animasi, dan daftar prestasi lengkap | `HTML` `CSS` `JavaScript` |
-| 🎮 **[Cuanverse](https://github.com/dafadwiandika2-beep/cuanverse)** | Aplikasi keuangan bergaya RPG yang membuat disiplin finansial terasa seperti petualangan | `Next.js` |
-| 🎂 **[birthdaymama](https://github.com/dafadwiandika2-beep/birthdaymama)** | Halaman web kejutan ulang tahun untuk mama tercinta 💝 | `HTML` |
-| 🎓 **[mkwk-pendidikanberkualitaskel41](https://github.com/dafadwiandika2-beep/mkwk-pendidikanberkualitaskel41)** | Web asesmen minat dan bakat murid SMP, bagian dari proyek MKWK bertema Pendidikan Berkualitas (SDGs 4) | `HTML` |
+| 🌐 **[portofolio](https://github.com/dfandkaa/portofolio)** | Web portofolio pribadi dengan tampilan mewah, animasi, dan daftar prestasi lengkap | `HTML` `CSS` `JavaScript` |
+| 🎮 **[Cuanverse](https://github.com/dfandkaa/cuanverse)** | Aplikasi keuangan bergaya RPG yang membuat disiplin finansial terasa seperti petualangan | `Next.js` |
+| 🎂 **[birthdaymama](https://github.com/dfandkaa/birthdaymama)** | Halaman web kejutan ulang tahun untuk mama tercinta 💝 | `HTML` |
+| 🎓 **[mkwk-pendidikanberkualitaskel41](https://github.com/dfandkaa/mkwk-pendidikanberkualitaskel41)** | Web asesmen minat dan bakat murid SMP, bagian dari proyek MKWK bertema Pendidikan Berkualitas (SDGs 4) | `HTML` |
+| 🌐 **[Web Aplikasi Kasir Grosir](https://github.com/dfandkaa/web-kasirgrosir)** | Web kasir untuk grosir toko dengan fitur lengkap | `Next.js` |
 
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 ## 🏆 Hall of Fame: Prestasi & Penghargaan
@@ -184,20 +185,20 @@ timeline
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dafadwiandika2-beep&show_icons=true&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24&hide_rank=false" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafadwiandika2-beep&layout=compact&theme=dark&bg_color=0d1117&title_color=fbbf24&text_color=e5e7eb&border_color=fbbf24" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dfandkaa&show_icons=true&theme=dark&bg_color=0d1117&title_color=fbbf24&icon_color=38bdf8&text_color=e5e7eb&border_color=fbbf24&hide_rank=false" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfandkaa&layout=compact&theme=dark&bg_color=0d1117&title_color=fbbf24&text_color=e5e7eb&border_color=fbbf24" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dafadwiandika2-beep&theme=dark&background=0D1117&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24&border=FBBF24&sideLabels=E5E7EB&dates=9CA3AF" />
+<img src="https://streak-stats.demolab.com/?user=dfandkaa&theme=dark&background=0D1117&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24&border=FBBF24&sideLabels=E5E7EB&dates=9CA3AF" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dafadwiandika2-beep&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=dfandkaa&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dafadwiandika2-beep&bg_color=0d1117&color=fbbf24&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dfandkaa&bg_color=0d1117&color=fbbf24&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -208,7 +209,7 @@ timeline
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dafadwiandika2-beep/dafadwiandika2-beep/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/dfandkaa/dfandkaa/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
 
 </div>
 
@@ -218,8 +219,8 @@ timeline
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dafadwiandika2-beep/dafadwiandika2-beep/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dafadwiandika2-beep/dafadwiandika2-beep/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfandkaa/dfandkaa/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/dfandkaa/dfandkaa/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -268,8 +269,8 @@ Di luar layar kode, saya menulis **web novel** dan merancang dunia fiksi dengan 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-dafadwiandika2--beep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafadwiandika2-beep)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kunjungi_Web_Saya-fbbf24?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/dafadwiandika2-beep/portofolio)
+[![GitHub](https://img.shields.io/badge/GitHub-dfandkaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafadwiandika2-beep)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kunjungi_Web_Saya-fbbf24?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/dfandkaa/portofolio)
 [![Email](https://img.shields.io/badge/Email-Hubungi_Saya-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dafadwiandika2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@dfandk_-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dfandk_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dafa_Dwi_Andika-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafa-dwi-andika-935834379/)
